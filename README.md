@@ -99,3 +99,25 @@
 
 
 
+### 1-3. KNN
+
+- Majority voting
+- Distance - weighted voting
+
+- Characteristics 
+  - model-free 
+  - expensive 
+  - local information
+  - missing values X 
+
+
+
+### 1-4. Naive Bayes Classifier 
+
+- Posterior probability 
+- Prior probability 
+
+
+
+### (Bayesian Networks)
+
